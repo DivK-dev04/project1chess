@@ -1,0 +1,6 @@
+div p:hover{
+    color: rgb(255, 175, 47);
+}
+p{
+    color: blue;
+}
